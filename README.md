@@ -15,6 +15,7 @@ The project uses:
 1. Install a compatible Python version
    - We discovered that the default Python environment was Python 3.14, which did not support GPU-enabled PyTorch wheels on this machine.
    - We installed Python 3.12 and created a dedicated virtual environment for GPU training.
+   - NOTE: You can use latest versions of Python, I used 3.12 because my GPU is older and was not detected.
 
 2. Create and use a Python 3.12 virtual environment
    ```powershell
