@@ -39,7 +39,7 @@ The project uses:
    - Use `Python: Select Interpreter` and choose `F:\TrainingLLM\venv312\Scripts\python.exe`
    - Restart the notebook kernel after switching.
 
-6. Run the notebook cells in order
+6. Run the notebook cells in order (Open the main.ipynb file)
    - Load the dataset
    - Tokenize the text
    - Prepare train/validation splits
